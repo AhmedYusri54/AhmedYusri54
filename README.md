@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Agentic AI **Langchain, Langgraph, Crew AI**
 
-- 📫 How to reach me **kingahmed.habeb@gmail.com**
+- 📫 How to reach me **ahmedyusri001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
