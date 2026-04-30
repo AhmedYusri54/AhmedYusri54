@@ -13,6 +13,7 @@
 - I’m currently working on Chemistry Voice Lab tutor assistant
 - I’m currently learning Agentic AI Langchain, Langgraph, Crew AI
 - How to reach me ahmedyusri31@gmail.com
+- Connect with me <a href="www.linkedin.com/in/ahmed-yusri">LinkedIn</a>
 
 
 ## 🧠 My Focus Areas
